@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+}
+header p {
+	text-align: center;
+}
+
+.text-center {
+	text-align: center;
+	font-style: italic;
+}
+
+.left-img {
+    float:left;
+    margin: 7px 7px 7px 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.center-img {
+	text-align: center;
+}
+
+.left-text {
+	text-align: right;
+	font-style: italic;
+}
